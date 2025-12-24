@@ -87,7 +87,9 @@ python edge_smart_digital_twin_dc_motor.py
 #### Option B – Run using Jupyter / VS Code (Recommended)
 
 -Open the project folder in VS Code
+
 -Open edge_smart_digital_twin_dc_motor.py
+
 -Use Run Cell or Run All on the # %% notebook cells
 
 ## Expected Outputs
